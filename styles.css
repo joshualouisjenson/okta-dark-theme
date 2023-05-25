@@ -33,7 +33,7 @@ div.chiclet--container,
 .sort-apps-button--sort button,
 :host .ods-button.is-ods-button-secondary
 {
-  background-color: lightgrey !important;
+  background-color: darkgrey !important;
 }
 
 header span.sort-apps-button--sort-label {
