@@ -1,0 +1,42 @@
+.side-nav--tabs span.nav-item--primary-label.tb--sidenav-item-label,
+.side-nav--tabs .tb--sidenav-subitem span.tb--sidenav-subitem-label,
+span.nav-item--secondary-icon-container.tb--sidenav-subitem-icon,
+header.floating-header,
+div.side-nav--content,
+#main-content,
+svg.nav-item--primary-icon.active,
+svg.nav-item--primary-icon,
+.side-nav--footer .tb--sidenav-text,
+.header--org-logo.tb--sidenav-header,
+span.nav-item--primary-label.tb--sidenav-item-label,
+.tb--sidenav-subitem .tb--sidenav-subitem-icon svg,
+.side-nav--footer,
+.side-nav--tabs .tb--sidenav-subitem .tb--sidenav-subitem-icon svg,
+.tb--sidenav-item .tb--sidenav-item-label svg,
+.tb--sidenav-item .tb--sidenav-item-icon svg,
+svg.nav-item--primary-icon,
+#dashboard-my-apps-title,
+svg.section--expand-arrow-icon,
+p.nav-item--info.tb--sidenav-item-label,
+header span,
+.dashboard--footer,
+.dropdown-menu--button-header,
+.dropdown-menu--button-sub
+{
+  background-color: #222 !important;
+  color: #eee !important;
+  stroke: #eee !important;
+}
+
+input.search--input,
+div.chiclet--container,
+.sort-apps-button--sort button,
+:host .ods-button.is-ods-button-secondary
+{
+  background-color: lightgrey !important;
+}
+
+header span.sort-apps-button--sort-label {
+  background-color: unset !important;
+  color: unset !important;
+}

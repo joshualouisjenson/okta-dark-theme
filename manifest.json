@@ -1,0 +1,16 @@
+{
+  "short_name": "Okta Dark",
+  "name": "Okta Dark Theme",
+  "content_scripts": [
+    {
+      "css": ["styles.css"],
+      "matches": [
+        "https://*.oktapreview.com/*",
+        "https://*.okta.com/*",
+        "https://*.okta-emea.com/*"
+      ]
+    }
+  ],
+  "manifest_version": 3,
+  "version": "1.0"
+}
